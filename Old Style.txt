@@ -1,0 +1,36 @@
+
+ body {
+		
+		BACKGROUND: #0C0404; COLOR: #7F79E6 
+	  
+	  }
+	   
+	  div {
+    width: 400px;
+    padding: 10px;
+    border: 5px solid gray;
+    margin: 3; 
+	  }
+ 
+    p {
+        font-family: tahoma;
+		font-size: 18pt;
+		font-weight: 600;
+    }
+	.centerclass {
+		font-size: 14pt;
+			text-align: center;
+			color: blue;
+		
+	}
+	h2 {
+		font-family: tahoma;
+		font-size: 22pt;
+		text-align: Center;
+		color: Orange
+	  }
+    a {
+	
+        color: red;
+      }
+</style>
